@@ -2,7 +2,7 @@ import streamlit as st
 
 # Cấu hình trang
 st.set_page_config(
-    page_title="🏡 AI-Powered California Housing Price Prediction",
+    page_title="California Housing Price",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
